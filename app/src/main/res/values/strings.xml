@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TechNow</string>
+    <string name="choiceStatment">choose your news website</string>
+    <string name="author">author</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="date">11/11/2017</string>
+    <string name="add_widget">Add widget</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="techradar">tech radar</string>
+    <string name="theVerge">the verge</string>
+    <string name="techCrunch">tech crunch</string>
+    <string name="engadget">engadget</string>
+    <string name="advertisement">advertisement</string>
+    <string name="articleImage">articleImage</string>
+    <string name="saveArticle">save article</string>
+    <string name="delete">Deleted From Saved Articles</string>
+    <string name="insert">Inserted To Saved Articles</string>
+    <string name="networkFalier">There Is No Internet</string>
+
+</resources>
