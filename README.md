@@ -8,10 +8,10 @@ This app for everyone who interested in tech news and wants to be resourceful.
 
 ## Features
 - Allows the user to select the tech news website.
-- Displays the tech news for the chosen website
-- Displays the news in two categories the top of articles and the most recently published.
+- Displays the tech articles for the chosen website.
+- Displays the news in two categories the top articles and the most recently published.
 - Navigates to read the article on the original website.
-- Allows the user to save the favorites articles 
+- Allows the user to save the favorite articles. 
 .
 ## User Interface
 ### The top articles screen
@@ -19,7 +19,7 @@ This app for everyone who interested in tech news and wants to be resourceful.
 
 ________________________________________________________________________________________________________________________
 
-### Saved articles screen
+### The saved articles screen
 ![](https://serving.photos.photobox.com/6514393398abe84ad8f238e4ecf846602c0a1b27dde209595cf67cc4678d1a716856d598.jpg)
 
 ________________________________________________________________________________________________________________________
