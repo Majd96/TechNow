@@ -1,17 +1,17 @@
 ## Description
 TeckNow is tech news Android application that displays tech articles from four of the most top ten
-tech news websites TheVerge, TechCrunch, Engadget and TechRadar, and let you view the news for each
+tech news websites TheVerge, TechCrunch, Engadget and TechRadar, and let the user views the news for each
 of these four websites separately.
 
 ## Intended User
-This app for everyone who interested in tech news and want to be resourceful.
+This app for everyone who interested in tech news and wants to be resourceful.
 
 ## Features
 - Allows the user to select the tech news website.
 - Displays the tech news for the chosen website
-- Diplays the news in two categories the top of articles and the most recently published.
-- Navigates to read the article on the original website .
-- Allows the user to save the favourts articles 
+- Displays the news in two categories the top of articles and the most recently published.
+- Navigates to read the article on the original website.
+- Allows the user to save the favorites articles 
 .
 ## User Interface
 ### The top articles screen
